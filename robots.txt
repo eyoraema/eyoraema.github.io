@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eyoraema.github.io/buO/sitemap_index.txt
+Sitemap: https://eyoraema.github.io/hvI/sitemap_index.txt
+Sitemap: https://eyoraema.github.io/mtk/sitemap_index.txt
+Sitemap: https://eyoraema.github.io/qdD/sitemap_index.txt
